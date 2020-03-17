@@ -79,6 +79,8 @@ const calculator = {
     }
 }
 
+
+
 // const { result: { x } } = calculator
 
 const x = calculator.result.x;

@@ -6,6 +6,7 @@
 //     }
 // }
 // const newResult = getMult(12);
+
 // newResult();
 
 // =================================
