@@ -42,7 +42,7 @@ function createProductCard(item) {
     return `
     <li class="productItem" data-id=${id}>
         <h2 class="productName">${product}</h2>
-        <p class="productPrice">$ ${price}</p>
+        <h4 class="productPrice">$ ${price}</h4>
         <button class="cardButton">Delete</button>
     </li>    `
 }
