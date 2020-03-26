@@ -15,6 +15,8 @@ const products = {
     }
 }
 
+
+
 function createProductCard(item) {
     const { id, product, price } = item;
     return `
